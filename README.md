@@ -10,5 +10,6 @@ A list of hello world programs in different programming languages
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Perl/blob/master/Basics1.pl" target="_blank">Perl</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Python/blob/master/Basics1.py" target="_blank">Python</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Rlang/blob/master/Basics1.r" target="_blank">R</a> <br/>
+<a href="https://github.com/ArjunAranetaCodes/MoreCodes-Scala/blob/master/Basics1.scala" target="_blank">Scala</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-TypeScript/blob/master/Basics1.js" target="_blank">TypeScript</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-VBNet/blob/master/Basics1.vb" target="_blank">VB.Net</a> <br/>
