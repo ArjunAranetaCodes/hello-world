@@ -8,6 +8,7 @@ A list of hello world programs in different programming languages
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Dart/blob/master/Basics1.cs" target="_blank">Dart</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics1.fs" target="_blank">F#</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Perl/blob/master/Basics1.pl" target="_blank">Perl</a> <br/>
+<a href="https://github.com/ArjunAranetaCodes/MoreCodes-PHP/blob/master/Basics1.php" target="_blank">PHP</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Python/blob/master/Basics1.py" target="_blank">Python</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Rlang/blob/master/Basics1.r" target="_blank">R</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Rust/blob/master/Basics1.rs" target="_blank">Rust</a> <br/>
