@@ -7,6 +7,7 @@ A list of hello world programs in different programming languages
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Coconut/blob/master/Basics1.coco" target="_blank">Coconut</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Dart/blob/master/Basics1.cs" target="_blank">Dart</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-EcmaScript/blob/master/Basics1.js" target="_blank">EcmaScript</a> <br/>
+<a href="https://github.com/ArjunAranetaCodes/MoreCodes-Euphoria/blob/master/Basics1.ex" target="_blank">Euphoria</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-FSharp/blob/master/Basics1.fs" target="_blank">F#</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Groovy/blob/master/Basics1.groovy" target="_blank">Groovy</a> <br/>
 <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Java/blob/master/Basics1.java" target="_blank">Java</a> <br/>
